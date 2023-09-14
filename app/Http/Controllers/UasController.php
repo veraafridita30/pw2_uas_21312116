@@ -4,7 +4,7 @@ namespace App\Http\Controllers;
 
 use GrahamCampbell\ResultType\Success;
 use Illuminate\Http\Request;
-use App\Models\Uas;
+use App\Models\uas;
 use RealRashid\SweetAlert\Facades\Alert;
 
 class UasController extends Controller
